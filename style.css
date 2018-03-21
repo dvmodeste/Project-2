@@ -7,9 +7,23 @@ body{
 h1{
 	font-family: Impact;
 }
-navigation{
+nav{
 width:100%;
 background-color:#B3FAEE;
 text-align:center;
+}
+.nav ul {
+  list-style: none;
+  background-color: black;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+.nav li {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.2em;
+  line-height: 40px;
+  height: 40px;
+  border-bottom: 1px solid #888;
 }
 
