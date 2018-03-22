@@ -2,15 +2,17 @@ body{
   background-image:url(img/background.jpg);
   font-family:"Gorgia";
   font-size:20px;
- 
-}
+  margin: 0;
+  padding: 0;
+ }
 h1{
 	font-family: Impact;
 }
 .navigation {
   width: 100%;
-  background-color: #333;
+  background-color:linear-gradient(to bottom, white, Navy);
   text-align: center;
+  color:white;
 }
 
 .navigation ul {
