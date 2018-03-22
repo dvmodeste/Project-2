@@ -10,9 +10,9 @@ h1{
 }
 .navigation {
   width: 100%;
-  background-color:linear-gradient(to bottom, white, Navy);
+  background-color: 4682B4;
   text-align: center;
-  color:white;
+  color: white;
 }
 
 .navigation ul {
@@ -24,9 +24,9 @@ h1{
    }
 
 .navigation li {
-       float: left;
+       float: center;
 	   display: inline-block;
-	   margin-right:5px;
+	   margin-right:10px;
 	   
    }
    
