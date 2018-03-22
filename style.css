@@ -26,7 +26,16 @@ h1{
 	   display: inline-block;
 	   margin-right:10px;
 	   color: white;
-	   
-   }
+	  }
+	  
+.navigation a:hover {
+  background-color: #005f5f;
+}
+
+.navigation a.active {
+  background-color: #fff;
+  color: #444;
+  cursor: default;
+}
    
    
