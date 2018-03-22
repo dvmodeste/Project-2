@@ -23,7 +23,7 @@ h1{
    }
 
 .navigation li {
-       float: center;	   
+       float:left;	   
 	   margin-right:10px;
 	   color: white;
 	   line-height: 40px;
@@ -51,15 +51,13 @@ h1{
 .text{
 	margin:0 0 0 2.5%;
 	width:30%;
-	float:left;
+	float: left;
 }
 .image{
-	float:left;
+	float: left;
 	margin:0 5%;
 	width:60%;
 }
 .title{
-	float:center;
+	float: left;
 }
-   
-   
