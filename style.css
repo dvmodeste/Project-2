@@ -19,7 +19,7 @@ h1{
        padding: 0;
        overflow: hidden;
        background-color: steelblue; 
-       display: inline-block;	   
+       	   
    }
 
 .navigation li {
@@ -28,6 +28,7 @@ h1{
 	   color: white;
 	   line-height: 40px;
        height: 40px;
+	   display: inline-block;
        border-bottom: 1px solid #888;
 	  }
 	  
