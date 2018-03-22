@@ -29,15 +29,19 @@ h1{
 	   line-height: 40px;
        height: 40px;
 	   display: inline-block;
-       border-bottom: 1px solid #888;
-	  }
+       }
 	  
 .navigation a:hover {
       background-color: white;
 }
 
+.navigation a {
+  text-decoration: none;
+  color: white;
+  display: block;
+ 
 .navigation a.active {
-  background-color: green;
+  background-color: white;
   cursor: default;
 }
    
