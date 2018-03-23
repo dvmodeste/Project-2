@@ -81,24 +81,24 @@ h1{
 }
 
 #left2 {
-	margin: 2.5% 2.5%;
+	margin: 0 2.5%;
 	width:45%;
 	float: left;
 }
 #right2 {
 	float: left;
 	width:45%;
-	margin: 2.5% 2.5%;
+	margin: 0 2.5%;
 }
 #left3 {
-	margin: 2.5% 2.5%;
+	margin: 0 2.5%;
 	width:40%;
 	float: left;
 }
 #right3 {
 	float: left;
 	width:40%;
-	margin: 2.5% 2.5%;
+	margin: 0 2.5%;
 }
 
 .title {
