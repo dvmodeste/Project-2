@@ -103,7 +103,7 @@ h1{
 
 .title {
 	width: 100%;
-    margin: 2.5% auto;
+    margin: 2.5% 0 0 2.5%
 }
 .block {
 	width : 95%;
@@ -120,7 +120,7 @@ h1{
 	float: left;
 	}
 #music {
-	margin: 2.5% 2.5%;
+	margin:0 2.5%;
 	width: 45%;
 	float: left;
 }
