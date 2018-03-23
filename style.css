@@ -62,3 +62,11 @@ h1{
 #contact {
 	width : 100px
 	margin : 0 auto;
+}
+@media screen and (orientation: portrait) {
+  .image{ max-width: 70%; }
+}
+
+@media screen and (orientation: landscape) {
+  .image{ max-height: 70%; }
+}
