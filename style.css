@@ -60,7 +60,7 @@ h1{
 	float: left;
 }
 #contact {
-	width : 100px
+	width : 100%
 	margin : 0 auto;
 }
 @media screen and (orientation: portrait) {
@@ -101,11 +101,7 @@ h1{
 	width:45%;
 	margin: 2.5% 2.5%;
 }
-.wrapper {
-	width: 960px;
-	margin: 0
-	border: solid black;
-}
+
 #title {
 	width: 100%;
     margin: 2.5% auto;
