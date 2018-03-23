@@ -10,7 +10,7 @@ h1{
 }
 .navigation {
   width: 100%;
-  text-align: center;
+  margin: 0 auto;
 }
 
 .navigation ul {
@@ -48,15 +48,18 @@ h1{
 
 }
 .text{
-	margin: 0 5%;
-	width:20%;
+	margin: 0 2.5%;
+	width:22.5%;
 	float: left;
 }
 .image{
 	float: left;
 	width:70%;
-	margin: 0 0;
+	margin: 5% 2.5% 0 0;
 }
 .title{
 	float: left;
 }
+#contact {
+	width : 100px
+	margin : 0 auto;
