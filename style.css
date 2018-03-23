@@ -54,7 +54,7 @@ h1{
 .image{
 	float: left;
 	width:70%;
-	margin: 0 2.5% 0 0;
+	margin: 2.5% 2.5% 0 0;
 }
 .title{
 	float: left;
@@ -80,5 +80,8 @@ h1{
 	width:45%;
 	margin: 0 2.5%;
 }
-
+#experience {
+	width: 960px;
+	margin: 0 auto;
+}
 
