@@ -39,13 +39,12 @@ h1{
   text-decoration: none;
   color: white;
   display: block;
- 
+}
 .navigation a.active {
   background-color: gray;
   cursor: default;
 }
 
-}
 .text{
 	margin: 0 2.5%;
 	width:22.5%;
@@ -60,8 +59,8 @@ h1{
 	float: left;
 }
 #contact {
-	width : 95%
-	margin : 2.5% 2.5%
+	width : 95%;
+	margin : 2.5% 2.5%;
 }
 @media screen and (orientation: portrait) {
   .image{ max-width: 70%; }
@@ -106,7 +105,12 @@ h1{
 	width: 100%;
     margin: 2.5% auto;
 }
-#block {
-	width : 95%
-	margin : 2.5% 2.5%
+.block {
+	width : 95%;
+	margin : 2.5% 2.5%;
 }
+#soccer {
+    margin: 2.5% 2.5%;
+	width: 95%;
+	float: left;
+	}
