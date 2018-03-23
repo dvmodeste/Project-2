@@ -23,8 +23,7 @@ h1{
        	   
    }
 
-.navigation li {
-       float:left;	   
+.navigation li {  
 	   margin-right:10px;
 	   color: white;
 	   line-height: 40px;
