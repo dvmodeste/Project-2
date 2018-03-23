@@ -49,13 +49,13 @@ h1{
 }
 .text{
 	margin: 0 5%;
-	width:30%;
+	width:20%;
 	float: left;
 }
 .image{
 	float: left;
-	width:60%;
-	margin: 0 5% 0 0;
+	width:70%;
+	margin: 0 0;
 }
 .title{
 	float: left;
