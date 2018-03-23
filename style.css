@@ -106,4 +106,9 @@ h1{
 	margin: 0
 	border: solid black;
 }
+#title {
+	width: 100%;
+    margin: 2.5% auto;
+}
+
 
