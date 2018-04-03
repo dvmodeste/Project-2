@@ -63,7 +63,8 @@ section#welcome{
   padding:0;
   margin:0;
   overflow: auto;
-  background:#F9E79F;
+  background:#FFC300;
+  text-align: center;
 }
 
 #contact {
