@@ -58,6 +58,14 @@ h1{
 .title{
 	float: left;
 }
+
+section#welcome{
+  padding:0;
+  margin:0;
+  overflow: auto;
+  background:#F9E79F;
+}
+
 #contact {
 	width : 95%;
 	margin : 2.5% 2.5%;
