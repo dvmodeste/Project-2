@@ -40,11 +40,12 @@ h1{
   color: white;
   display: block;
 }
+/**
 .navigation a.active {
   background-color: gray;
   cursor: default;
 }
-
+*/
 .text{
 	margin: 0 2.5%;
 	width:22.5%;
