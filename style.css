@@ -47,14 +47,15 @@ h1{
 }
 */
 .text{
-	margin: 0 2.5%;
+	margin: 2.5% 7.5%;
 	width:22.5%;
 	float: left;
 }
 .image{
-	float: right;
-	width:70%;
-	margin: 2.5% 2.5% 0 0;
+	float: left;
+	width:62.5%;
+	margin: 2% 0;
+	/**display: block ; */
 }
 .title{
 	float: left;
@@ -71,9 +72,11 @@ section#welcome{
 }
 
 #contact {
-	width : 95%;
-	margin : 2.5% 2.5%;
+	/** width : 95%; */
+	margin : 2.5% 0 0 0 ;
+	text-align:center;
 }
+/**
 @media screen and (orientation: portrait) {
   .image{ max-width: 70%; }
 }
@@ -81,6 +84,7 @@ section#welcome{
 @media screen and (orientation: landscape) {
   .image{ max-height: 70%; }
 }
+*/
 #left1 {
 	margin: 0 2.5%;
 	width:45%;
