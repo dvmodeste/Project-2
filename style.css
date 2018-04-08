@@ -7,6 +7,10 @@ body{
  }
 h1{
 	font-family: Impact;
+}	
+h4{
+	font-family: Helvetica;
+	font-style: italic;	
 }
 .navigation {
   width: 100%;
@@ -86,14 +90,14 @@ section#welcome{
 }
 */
 #left1 {
-	margin: 0 2.5%;
+	margin: 0 2.5% 2.5%;
 	width:45%;
 	float: left;
 }
 #right1 {
 	float: left;
 	width:45%;
-	margin: 0 2.5%;
+	margin: 0 2.5% 2.5%;
 }
 
 #left2 {
@@ -117,14 +121,23 @@ section#welcome{
 	margin: 0 2.5%;
 }
 
-.title {
-	width: 100%;
-    margin: 2.5% 0 0 2.5%
+#title2 {
+	width: 45%;
+    margin: 2.5% 2.5%;
+	float: left;
 }
+
+#title1 {
+	width: 100%;
+    margin: 2.5% 0;
+	text-align : center;
+}
+
 .block {
 	width : 95%;
 	margin : 2.5% 2.5%;
 }
+
 #soccer {
     margin: 2.5% 2.5%;
 	width: 45%;
@@ -136,8 +149,9 @@ section#welcome{
 	float: left;
 	}
 #music {
-	margin:0 2.5%;
+	margin:2.5% 2.5%;
 	width: 45%;
 	float: left;
+	
 }
 	
